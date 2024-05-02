@@ -22,4 +22,4 @@ class ArrayOfAnything<T> {
   }
 }
 
-new ArrayOfAnything(["a", "b", "c"]);
+const arr = new ArrayOfAnything(['a', 'b', 'c']);
